@@ -112,7 +112,7 @@ Wilder Miranda | contatowildermiranda@gmail.com
 
   
 
-**Dê uma star no repositório ⭐ **
+**Dê uma star no repositório ⭐**
 
   
   
