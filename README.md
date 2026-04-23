@@ -3,14 +3,6 @@
 #### Explore os principais drivers e indicadores de desempenho.
 
 ---
-
-## Links Importantes do Tutorial
-
-| Recurso  | Link                                                        |
-| -------- | ----------------------------------------------------------- |
-| LinkedIn | [wildermiranda](https://www.linkedin.com/in/wildermiranda/) |
-
----
 ## Sobre o Projeto
 
 Este repositório apresenta análise de dados focado no setor automotivo, usando PostgreSQL para a estruturação de queries e Streamlit para a visualização de indicadores de vendas.
@@ -21,7 +13,7 @@ Pipeline:
 2. Validações e agregações para análise
 3. Visualização no Streamlit
 
-Objetivo: Desenvolver uma solução completa de dados, desde a extração e manipulação com SQL até a visualização interativa no Streamlit.
+> Objetivo: Desenvolver uma solução completa de dados, desde a extração e manipulação com SQL até a visualização interativa no Streamlit.
 
 ---
 ## Dashboard 📊
