@@ -6,9 +6,9 @@
 
 ## Links Importantes do Tutorial
 
-| Recurso            | Link                                                                                                                                               |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| LinkedIn           | [wildermiranda](https://www.linkedin.com/in/wildermiranda/)                                                                                        |
+| Recurso  | Link                                                        |
+| -------- | ----------------------------------------------------------- |
+| LinkedIn | [wildermiranda](https://www.linkedin.com/in/wildermiranda/) |
 
 ---
 ## Sobre o Projeto
@@ -27,27 +27,27 @@ Objetivo: Desenvolver uma solução completa de dados, desde a extração e mani
 ## Dashboard 📊
 ### Visão Geral
 
-![Dashboard - Visão Geral](1.png)
+![Dashboard - Visão Geral](docs/dash/1.png)
 ### Leads vs Conversão
 
-![Dashboard - Leads vs Conversão](2.png)
+![Dashboard - Leads vs Conversão](docs/dash/2.png)
 
 ### Estados que mais venderam no mês
 
-![Dashboard - Estados que mais venderam no mês](3.png)
+![Dashboard - Estados que mais venderam no mês](docs/dash/3.png)
 ### Top 5 marcas mais vendidas no mês
 
-![](4.png)
+![Dashboard - Top 5 marcas mais vendidas no mês](docs/dash/4.png)
 ### Top 5 lojas que mais venderam no mês
 
-![Dashboard - Top 5 lojas que mais venderam no mês](5.png)
+![Dashboard - Top 5 lojas que mais venderam no mês](docs/dash/5.png)
 ### Visitas ao site por dia da semana no mês
 
-![Dashboard - Visitas ao site por dia da semana no mês](6.png)
+![Dashboard - Visitas ao site por dia da semana no mês](docs/dash/6.png)
 ### Consultas SQL execultadas para a extração de dados.
 
-![Dashboard - Queries](7.png)
-![Dashboard - Query 4](8.png)
+![Dashboard - Queries](docs/dash/7.png)
+![Dashboard - Query 4](docs/dash/8.png)
 
 ---
 ## Stack Tecnológica
@@ -78,8 +78,8 @@ pip install uv
 ### 1) Clone o repositório
 
 ```bash
-git clone https://github.com/vbluuiza/YT-batch-ETL-NYC--Yellow-Taxi-Data-Engineer-First-Project.git
-cd YT-batch-ETL-NYC--Yellow-Taxi-Data-Engineer-First-Project
+git clone https://github.com/wildermiranda/SalesDashboard.git
+cd SalesDashboard
 ```
 
 ### 2) Sincronize dependências
