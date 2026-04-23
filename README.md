@@ -109,9 +109,13 @@ Wilder Miranda | contatowildermiranda@gmail.com
 ---
 
 <div align="center">
+
+  
+
 **Dê uma star no repositório ⭐ **
+
+  
+  
+
 </div>
 
-<div align="center">
-**Feito com por [@wildermiranda](https://www.linkedin.com/in/wildermiranda/)**
-</div>
