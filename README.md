@@ -7,13 +7,14 @@
 
 Este repositório apresenta análise de dados focado no setor automotivo, usando PostgreSQL para a estruturação de queries e Streamlit para a visualização de indicadores de vendas.
 
-Pipeline:
+### Etapas:
 
-1. Consultas SQL executadas para a extração de dados
-2. Validações e agregações para análise
-3. Visualização no Streamlit
+- Consultas SQL executadas para a extração de dados
+- Visualização no Streamlit
 
-> Objetivo: Desenvolver uma solução completa de dados, desde a extração e manipulação com SQL até a visualização interativa no Streamlit.
+### Objetivo: 
+
+Desenvolver uma solução completa de dados, desde a extração e manipulação com SQL até a visualização interativa no Streamlit.
 
 ---
 ## Dashboard 📊
@@ -44,7 +45,7 @@ Pipeline:
 ---
 ## Stack Tecnológica
 
-| Camada            | Tecnologia | Versão | Por que usamos                                                                                                       |
+| Camada            | Tecnologia | Versão | Por que usamos?                                                                                                      |
 | ----------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------------- |
 | Core              | Python     | 3.14+  | Linguagem de programação de **alto nível** e multiparadigma, usada como o motor lógico da aplicação.                 |
 | Core              | Streamlit  | 1.56+  | Framework para a **implantação (deployment) de web apps** de dados, focado na criação de interfaces de usuário (UI). |
