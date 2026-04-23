@@ -25,13 +25,13 @@ Objetivo: Desenvolver uma solução completa de dados, desde a extração e mani
 
 ---
 ## Dashboard 📊
+
 ### Visão Geral
 
 ![Dashboard - Visão Geral](docs/dash/1.png)
 ### Leads vs Conversão
 
 ![Dashboard - Leads vs Conversão](docs/dash/2.png)
-
 ### Estados que mais venderam no mês
 
 ![Dashboard - Estados que mais venderam no mês](docs/dash/3.png)
